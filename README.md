@@ -1,5 +1,7 @@
 # 廖傑恩 Jay Chiehen Liao, BS, BBA
 
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayenliao)](https://github.com/anuraghazra/github-readme-stats)
+
 ### EDUCATION
 
 - 2020.09 - _present_ | Master of Science in Data Science, National Cheng Kung University
