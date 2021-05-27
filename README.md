@@ -1,12 +1,6 @@
-+++
-title = "廖傑恩 Jay Chiehen Liao, BS, BBA"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2020-07-23"
-aliases = ["about-us","about-hugo","contact"]
-author = "Jay C. Liao"
-+++
+# 廖傑恩 Jay Chiehen Liao, BS, BBA
 
-### EDUCATION
+## EDUCATION
 
 - 2020.09 - _present_ | Master of Science in Data Science, National Cheng Kung University
 
@@ -16,11 +10,9 @@ author = "Jay C. Liao"
 
 - 2015.09 - 2020.06 | Bachelor of Science in Psychology, National Cheng Kung University
 
-- 2012.09 - 2015.06 | Taipei Municipal Lishan Senior High School
-
 <br/>
 
-### EMPLOYMENT
+## EMPLOYMENT
 
 - 2020.08 - _present_ | Research Assistant, Networked Artificial Intelligence Laboratory, Insititute of Data Science, National Cheng Kung University
 
@@ -34,7 +26,7 @@ author = "Jay C. Liao"
 
 <br/>
 
-### PUBLICATIONS
+## PUBLICATIONS
 
 - Yu, Y. F., Ting, T. T., __Liao, J. C.__, Tsai, M. C., Lin, C. Y., Hsieh, Y. P., Strong, C.\* (2020). The Dynamics of Adolescents’ Pubertal Maturation, Depressive Symptoms and Friendship Networks: Stochastic Actor-Oriented Model. *The Lancet Child & Adolescent Health*. (Under review)
 
@@ -46,9 +38,9 @@ author = "Jay C. Liao"
 
 <br/>
 
-### CONFERENCE PRESENTATIONS
+## CONFERENCE PRESENTATIONS
 
-#### International
+### International
 
 * __Liao, J. C.__ and Li, C. T.\* (Dec 2020). Apply the Generated Graph in Modeling Time Series Data from Wearable Devices with Long Short-Term Memory Model. An oral presentation at 2020 International Computer Symposium, Tainan, Taiwan.
 
@@ -71,57 +63,3 @@ author = "Jay C. Liao"
 * __Liao, J. C.\*__, Lin, Z. Y., Tsai, M. T., & Strong, C. (Sep 2019). Associations among same-sex attraction, childhood gender nonconformity and discrimination experiences: Findings from structural equation models in a sample of male adolescents in Taiwan (present in Chinese). Oral presentation at *2019 Annual Conference of Taiwan Public Health Association*, Taipei, Taiwan. __廖傑恩\*__、林宗瑩、蔡孟哲、莊佳蓉*（2019年9月）。同性性吸引、童年性別氣質與歧視經驗之關聯：運用結構方程模型於一個台灣青少男樣本之發現。「2019台灣公共衛生聯合年會」口頭發表論文，國立臺灣大學。
 
 * __Liao, J. C.__, Yu, Y. F.\*, Yang, T. J., & Cheng, C. P. (May 2019). Data Analysis of Referenda in Taiwan in 2018: Association among Agreement Rate and Sociodemographic Indices of Counties and Cities (present in Chinese). Poster presentation at *2019 United Annual Conference of Taiwan Applied Psychology Association and Taiwan Association of Biofeedback and Neurofeedback*, Kaohsiung, Taiwan. __廖傑恩__、尤怡方\*、楊紫筑、鄭中平（2019年5月）。2018年台灣公民投票資料分析：人口學及社會學指標與各縣市公投案同意率之關係。「2019台灣應用心理學會與台灣生理與神經回饋學會聯合年會」海報發表論文，高雄醫學大學。
-
-### AWARDS & HONORS
-
-- 2019.06 | The first place award, 2019 Chunghwa Post Big Data Competition（2019中華郵政大數據競賽／第一名）
-
-- 2019.05 | Excellent Award, Certificate of Statistic Analysis, The Chinese Applied Statistics Association（中華應用統計學會／統計資料分析能力證照／優等獎）
-
-- 2018.06 | Grants from Taiwan Ministy of Science and Technology for undergraduate students（107學年度科技部大專學生研究計畫補助）
-
-    - Research project: The association of LGBTQ-friendly-venue-based network and Human Papillomavirus infection of men who have sex with men: findings in a cohort in Southern Taiwan.
-    - Adviser: [Prof. Carol Strong, PhD, MPH](https://researchoutput.ncku.edu.tw/en/persons/carol-strong)
-
-- 2017.05 | Advanced Award, Competition of Statistics, National Cheng Kung University（國立成功大學統計學競試／特優獎）
-
-### GENDER MOVEMENT
-
-- 2017.08 - 2018.07 | Member, Gender Equity Education Committee, National Cheng Kung University
-
-- Tainan Rainbow (LGBTQ) Parade
-    
-    - 2020 | Director, Traffic Section
-    - 2019 | Director, Photography & Filming Section
-    - 2018 | Director, Photography & Filming Section
-    - 2017 | Member, Photography & Filming Section
-
-- Tainan Pink Dot
-
-    - 2019 | Director of Photography
-    - 2018 | Coordinator
-    - 2017 | Stage Host
-
-- _TO. LESBIANS & QUEERS_ (A gender friendly student club in National Cheng Kung University)
-
-    - 2018.08 - 2019.07 | Counselor
-    - 2017.08 - 2018.07 | Director
-    - 2016.08 - 2017.07 | Academic Affairs
-
-- Volunteer, Thanksgiving parties in 2013-2016, 2018-2020 of Taiwan Tongzhi (LGBTQ+) hotline association
-
-- Member, Taiwan HivStory Association
-
-### STUDENT ACTIVITIES
-
-* 2019.07 | Lecturer, Psychology Camp, National Cheng Kung University (NCKU)（成大心理科普營／課程講師）
-
-* 2019.06 | Graduate representative, Department of Psychology, NCKU（成大心理系108級畢業典禮／畢業生致詞代表）
-
-* 2016.11 – 2017.10 | Photography and art design, Freshmen Camp, Department of Psychology, NCKU （成大心理系迎新宿營／行編長）
-
-* 2016.10 – 2016.11 | Photography, Exchange activity of student associations and clubs of NCKU and Kanazawa Institute of Technology （2016成大與日本金澤工業大學學生自治組織暨社團交流／攝影）
-
-* 2015.10 – 2016.06 | Public Relation, Students Association of Department of Psychology, NCKU（成大心理系學會／公關部部員）
-
-* 2015.09 – 2017.06 | Public Relation, Photography Club, NCKU（成大攝影社／105學年度公關長、104學年度社員）
