@@ -14,7 +14,6 @@
 - 2020.08 - _present_ | Research Assistant, Networked Artificial Intelligence Laboratory, Insititute of Data Science, National Cheng Kung University
     - Research topics: deep learning with graph, recommendation system with time series data
     - Lab host: [Prof. Cheng-Te Li, PhD, MS](http://myweb.ncku.edu.tw/~chengte/about.html)
-
 - 2017.01 - 2020.07 | Research Assistant, Health Behavior Research Lab, Department of Public Health, National Cheng Kung University
     - Research topics: sex health of men who have sex with men, mental health of adolescents
     - Lab host: [Prof. Carol Strong, PhD, MPH](https://researchoutput.ncku.edu.tw/en/persons/carol-strong)
