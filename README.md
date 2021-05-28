@@ -1,7 +1,7 @@
 # 廖傑恩 Jay Chiehen Liao, BS, BBA
 
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayenliao)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayenliao&hide=html,otebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayenliao&hide=notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### EDUCATION
