@@ -6,9 +6,9 @@
 
 ### EDUCATION
 
-- 2020.09 - _present_   Master of Science in Data Science, National Cheng Kung University (NCKU)
+- 2020.09 - _present_   | Business Administration in Data Science, National Cheng Kung University (NCKU)
     - Adviser: [Prof. Cheng-Te Li, PhD, MS](http://myweb.ncku.edu.tw/~chengte/about.html)
-- 2015.09 - 2020.06     Double Bachelor Degree, NCKU
+- 2015.09 - 2020.06     | Double Bachelor Degree, NCKU
     - Bachelor of Business Administration in Statistics
     - Bachelor of Science in Psychology
 
