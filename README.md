@@ -1,5 +1,7 @@
 # 廖傑恩 Jay Chiehen Liao, BS, BBA
 
+![](https://komarev.com/ghpvc/?username=jayenliao&color=dc143c)
+
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayenliao&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayenliao&layout=compact&hide=html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
