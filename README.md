@@ -2,10 +2,7 @@
 
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayenliao&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayenliao&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Jay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayenliao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Jay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayenliao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### EDUCATION
 
