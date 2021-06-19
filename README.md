@@ -27,7 +27,7 @@
 ### EMPLOYMENT
 
 - 2020.08 - _present_   Research Assistant, Networked Artificial Intelligence Laboratory, Insititute of Data Science, NCKU
-    - Research topics: deep learning with graph, recommendation system with time series data
+    - Research topics: deep learning with graph, recommendation system with time series data, smart systems for health cares
     - Lab host: [Prof. Cheng-Te Li, PhD, MS](http://myweb.ncku.edu.tw/~chengte/about.html)
 - 2017.01 - 2020.07     Research Assistant, Health Behavior Research Lab, Department of Public Health, NCKU
     - Research topics: sex health of men who have sex with men, mental health of adolescents
