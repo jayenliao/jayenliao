@@ -19,9 +19,11 @@
 
 ### EDUCATION
 
-- 2020.09 - _present_   Master of Business Administration in Data Science, National Cheng Kung University (NCKU)
-    - Adviser: [Prof. Cheng-Te Li, PhD, MS](http://myweb.ncku.edu.tw/~chengte/about.html)
-- 2015.09 - 2020.06     Double Bachelor Degree, NCKU
+- Sept 2020   Master of Science in Data and Business Analytics, ESC Rennes School of Business, FRANCE
+
+- Sept 2020 - _present_   Master of Business Administration in Data Science, National Cheng Kung University (NCKU), TAIWAN
+    - Adviser: [Dr. Cheng-Te Li](http://myweb.ncku.edu.tw/~chengte/about.html)
+- Sept 2015 - June 2020     Double Bachelor Degree, NCKU, TAIWAN
     - Bachelor of Business Administration in Statistics
     - Bachelor of Science in Psychology
 
@@ -29,7 +31,7 @@
 
 - 2020.08 - _present_   Research Assistant, Networked Artificial Intelligence Laboratory, Insititute of Data Science, NCKU
     - Research topics: deep learning with graph, recommendation system with time series data, smart systems for health cares
-    - Lab host: [Prof. Cheng-Te Li, PhD, MS](http://myweb.ncku.edu.tw/~chengte/about.html)
+    - Lab host: [Dr. Cheng-Te Li](http://myweb.ncku.edu.tw/~chengte/about.html)
 - 2017.01 - 2020.07     Research Assistant, Health Behavior Research Lab, Department of Public Health, NCKU
     - Research topics: sex health of men who have sex with men, mental health of adolescents
-    - Lab host: [Prof. Carol Strong, PhD, MPH](https://researchoutput.ncku.edu.tw/en/persons/carol-strong)
+    - Lab host: [Dr. Carol Strong](https://researchoutput.ncku.edu.tw/en/persons/carol-strong)
