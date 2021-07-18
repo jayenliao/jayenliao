@@ -19,7 +19,7 @@
 
 ### EDUCATION
 
-- Sept 2020   Master of Science in Data and Business Analytics, ESC Rennes School of Business, FRANCE
+- (Going to begin in Sept 2021) Master of Science in Data and Business Analytics, ESC Rennes School of Business, FRANCE
 - Sept 2020 - _present_   Master of Business Administration in Data Science, National Cheng Kung University (NCKU), TAIWAN
     - Adviser: [Dr. Cheng-Te Li](http://myweb.ncku.edu.tw/~chengte/about.html)
 - Sept 2015 - June 2020     Double Bachelor Degree, NCKU, TAIWAN
