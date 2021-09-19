@@ -19,18 +19,18 @@
 
 ### EDUCATION
 
-- Sept 2021 - _present_   Master of Science in Data and Business Analytics, ESC Rennes School of Business, FRANCE
-- Sept 2020 - _present_   Master of Business Administration in Data Science, National Cheng Kung University (NCKU), TAIWAN
+- [Sept 2021 - _present_]   Master of Science in Data and Business Analytics, ESC Rennes School of Business, FRANCE
+- [Sept 2020 - _present_]   Master of Business Administration in Data Science, National Cheng Kung University (NCKU), TAIWAN
     - Adviser: [Dr. Cheng-Te Li](https://sites.google.com/view/chengteli/)
-- Sept 2015 - June 2020     Double Bachelor Degree, NCKU, TAIWAN
+- [Sept 2015 - June 2020]   Double Bachelor Degree, NCKU, TAIWAN
     - Bachelor of Business Administration in Statistics
     - Bachelor of Science in Psychology
 
 ### EMPLOYMENT
 
-- 2020.08 - _present_   Research Assistant, Networked Artificial Intelligence Laboratory, Insititute of Data Science, NCKU
+- [2020.08 - _present_]   Research Assistant, Networked Artificial Intelligence Laboratory, Insititute of Data Science, NCKU
     - Research topics: deep learning with graph, recommendation system with time series data, smart systems for health cares
     - Lab host: [Dr. Cheng-Te Li](https://sites.google.com/view/chengteli/)
-- 2017.01 - 2020.07     Research Assistant, Health Behavior Research Lab, Department of Public Health, NCKU
+- [2017.01 - 2020.07]     Research Assistant, Health Behavior Research Lab, Department of Public Health, NCKU
     - Research topics: sex health of men who have sex with men, mental health of adolescents
     - Lab host: [Dr. Carol Strong](https://researchoutput.ncku.edu.tw/en/persons/carol-strong)
