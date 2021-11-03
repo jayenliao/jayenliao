@@ -19,8 +19,9 @@
 
 ### EDUCATION
 
-- [Sept 2021 - _present_]   Master of Science in Data and Business Analytics, ESC Rennes School of Business, FRANCE
-- [Sept 2020 - _present_]   Master of Business Administration in Data Science, National Cheng Kung University (NCKU), TAIWAN
+- [Sept 2021 - Apr 2022 _(expected)_]   Master of Science in Data and Business Analytics, ESC Rennes School of Business, FRANCE
+    - Adviser: [Dr. Anke Piepenbrink](https://www.rennes-sb.fr/faculty/dr-piepenbrink-anke/)
+- [Sept 2020 - June 2022 _(expected)_]   Master of Business Administration in Data Science, National Cheng Kung University (NCKU), TAIWAN
     - Adviser: [Dr. Cheng-Te Li](https://sites.google.com/view/chengteli/)
 - [Sept 2015 - June 2020]   Double Bachelor Degree, NCKU, TAIWAN
     - Bachelor of Business Administration in Statistics
