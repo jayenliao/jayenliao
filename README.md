@@ -16,22 +16,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jayenliao&hide=contribs,prs,issues&show_icons=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayenliao&hide=html,jupyter%20notebook" height="150"/>
 </p>
-
-### EDUCATION
-
-- [Sept 2021 - Apr 2022]   **MS in Data and Business Analytics**, ESC Rennes School of Business, FRANCE
-    - Adviser: [Dr. Anke Piepenbrink](https://www.rennes-sb.fr/faculty/dr-piepenbrink-anke/)
-- [Sept 2020 - July 2022 _(expected)_]   **MBA in Data Science**, National Cheng Kung University (NCKU), TAIWAN
-    - Adviser: [Dr. Cheng-Te Li](https://sites.google.com/view/chengteli/)
-- [Sept 2015 - June 2020]   Double Bachelor Degree, NCKU, TAIWAN
-    - BBA in Statistics
-    - BS in Psychology
-
-### EMPLOYMENT
-
-- [2020.08 - _present_]   Research Assistant, Networked Artificial Intelligence Laboratory, Insititute of Data Science, NCKU
-    - Research topics: deep learning with graph, recommendation system with time series data, smart systems for health cares
-    - Lab host: [Dr. Cheng-Te Li](https://sites.google.com/view/chengteli/)
-- [2017.01 - 2020.07]     Research Assistant, Health Behavior Research Lab, Department of Public Health, NCKU
-    - Research topics: sex health of men who have sex with men, mental health of adolescents
-    - Lab host: [Dr. Carol Strong](https://researchoutput.ncku.edu.tw/en/persons/carol-strong)
