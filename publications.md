@@ -1,12 +1,12 @@
-### PUBLICATIONS
+# Jay Chiehen Liao
 
-- Yu, Y. F., Ting, T. T., __Liao, J. C.__, Tsai, M. C., Lin, C. Y., Hsieh, Y. P., Strong, C.\* (2020). The Dynamics of Adolescents’ Pubertal Maturation, Depressive Symptoms and Friendship Networks: Stochastic Actor-Oriented Model. *The Lancet Child & Adolescent Health*. (Under review)
+## JOURNAL PAPERS
+
+- Lo, Y. T., __Liao, J. C.__ (co-first), Chen, M. H., Chang, C. M., & Li, C. T.\* (2021). Predictive modeling for 14-day unplanned hospital readmission risk by using machine learning algorithms. *BMC medical informatics and decision making, 21*(1), 1-11.
+
+- Yu, Y. F., Ting, T. T., __Liao, J. C.__, Tasi, M. C., Lin, C. Y., Hsieh, Y. P., & Strong, C.\* The Dynamics of Adolescents’ Pubertal Maturation, *Depressive Symptoms and Friendship Networks: Stochastic Actor-Oriented Model. Depressive Symptoms and Friendship Networks: Stochastic Actor-Oriented Model.*
 
 - Strong, C.\*, Wu, H. J., Tseng, Y. C., Yuan, C. W., Yu, Y. F., __Liao, J. C.__, Chen, Y. W., Hung, Y. C., Li, C. W., Huang, P. H., Ko, N. Y., Ku, S. W. W. (2020). A Mobile App (UPrEPU) to Monitor Adherence to Pre-Exposure Prophylaxis in Men Who Have Sex with Men: A Protocol for a User-Centered Approach Mobile App Design and Development. *The JMIR Research Protocols*. (Under review)
-
-- __Liao, J. C.\*__, Lin, C. Y., Yu, Y. F., Tsai, M. T., Hsieh, Y. P., Lin, Y. C., & Strong, C.\* (2020). Same-Sex Attraction, Gender Nonconformity, Masculinity Ideology, and Psychological Distress Among Male Adolescents in Taiwan. *Archives of Sexual Behavior*. (Under review)
-
-- __Liao, J. C.__ (2017). Taiwanese Young Adults Engaged in Issues of Marriage Equality and LGBTQ in 2016 (text in Chinese). Magazine of National Cheng Kung University, *vol 255, 50-55*. 廖傑恩（2017）。真平權！青年參與婚姻平權、同志公共議題。*國立成功大學校刊第255期*。
 
 <br/>
 
@@ -26,9 +26,9 @@
 
 * Yu, Y. F., Zhou, H., __Liao, J. C.__, Ku, W. W., Ko, N. Y., & Strong, C.\* (Oct 2018). Incidence and Associated Factors of Anogenital Human Papillomavirus Infection in A Community Sample of Men Who Have Sex with Men in Taiwan. Poster presentation at *the 32nd International Papillomavirus Conference (IPVC 2018)*, Sydney, Australia.
 
-#### Domestic (Taiwanese)
+### Domestic (Taiwanese)
 
-* __Liao, J. C.\*__, Lee, T. J., & Sheu, C. H. (Dec 2020). Data Analysis of Three Votes of Kaohsiung City in 2018-2020: Focus on Associations between the Approval Rates of Han Kuo-Yu and Demographic Variables (present in Chinese). Presentation at *2020 Annual Conference of Taiwan Political Science Association*, Taipei, Taiwan. (Accepted) __廖傑恩\*__、李唐榮、許清芳。高雄市2018-2020年間三次投票分析：聚焦於韓國瑜支持度與人口學變項之關聯。「2020台灣政治學會年會」發表論文，國立臺灣大學。（已接受）
+* __Liao, J. C.\*__, Lee, T. J., & Sheu, C. H. (Dec 2020). Data Analysis of Three Votes of Kaohsiung City in 2018-2020: Focus on Associations between the Approval Rates of Han Kuo-Yu and Demographic Variables (present in Chinese). Presentation at *2020 Annual Conference of Taiwan Political Science Association*, Taipei, Taiwan. __廖傑恩\*__、李唐榮、許清芳。高雄市2018-2020年間三次投票分析：聚焦於韓國瑜支持度與人口學變項之關聯。「2020台灣政治學會年會」發表論文，國立臺灣大學。
 
 * __Liao, J. C.\*__, Wu, M. H., Su, W. L., & Huang, P. H. (Nov 2019). Scale of Perceived Stressor for Taiwanese Undergraduates: An Application of Multidimensional Forced-Choice (present in Chinese). Oral presentation at *2019 Annual Conference of Taiwan Psychological Association*, Kaohsiung, Taiwan. __廖傑恩\*__、吳旻憲、蘇維聆、黃柏僩（2019年11月）。大學生壓力源知覺量表：多面向強迫選擇方法之應用。「2019台灣心理學會年會」口頭發表論文，高雄醫學大學。
 
