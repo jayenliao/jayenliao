@@ -14,8 +14,6 @@
 
 ### International
 
-* __Liao, J. C.__ and Li, C. T.\* (Dec 2020). Apply the Generated Graph in Modeling Time Series Data from Wearable Devices with Long Short-Term Memory Model. An oral presentation at 2020 International Computer Symposium, Tainan, Taiwan.
-
 * Ku, W. W.\*, Li, C. W., Huang, P., Strong, C., Garner, A., Howell, S., Wu, T. H., __Liao, J. C.__, Ko, N. Y., and Bourne, A. (May 2020). Factors Associated with Uptake of Event-Driven and Daily Regimen of Pre-exposure Prophylaxis among Gay, Bisexual and Other Men Who Have Sex with Men in Taiwan: 2019 Hornet PrEP Survey. Oral presentation at _the 23rd International AIDS Conference (AIDS 2020)_, San Francisco, California.
 
 * __Liao, J. C.\*__, Yu, Y. F., & Strong, C.\* (Sep 2019). The Influence of the Venue-Based Network to the Anogenital Human Papillomavirus Infection in Men who Have Sex with Men: An Application of Temporal Network Autocorrelation Model. Oral presentation at *the 4th European Conference of Social Network (EUSN 2019)*, Zurich, Switzerland. 
