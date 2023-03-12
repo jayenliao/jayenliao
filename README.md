@@ -10,6 +10,7 @@
   <img src="https://www.r-project.org/logo/Rlogo.svg" width="55"/>
   <img src="https://iconape.com/wp-content/png_logo_vector/rstudio-logo.png" width="110" />
   <img src="https://camo.githubusercontent.com/cb0738ef62409d4383697dba6b233e061ba1c9fad57e286c9232b7be97feb539/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e75782f6c696e75782d69636f6e2e737667" height="40"/>
+  <imh src="https://www.edureka.co/blog/wp-content/uploads/2019/02/What-is-Ruby-on-Rails-1.png" height="40">
 </p>
 
 <p align="center">
