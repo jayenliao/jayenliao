@@ -15,5 +15,5 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=jayenliao&hide=contribs,prs,issues&show_icons=true" height="150"/>  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayenliao&hide=html,jupyter%20notebook" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayenliao&hide=html,jupyter%20notebook" height="250"/>
 </p>
